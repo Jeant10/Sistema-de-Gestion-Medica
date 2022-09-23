@@ -1,0 +1,45 @@
+Esteban Gonzalez
+Biotest
+28
+9
+2021
+12
+30
+Dolores de cabeza
+Fiebre
+Paracetamol
+Ivan Cevallos
+Medicina General
+Pendiente
+Pendiente
+15
+Fatima Reyes
+Medical
+28
+9
+2021
+13
+30
+Vision Borrosa
+Astigmatismo
+Lentes
+Laura Lucero
+Oftamologia
+Pendiente
+Cancelado
+112.35
+Javier Torres
+Medicenter
+15
+10
+2021
+11
+30
+Dolor de muelas
+Caries
+Empaste Dental
+Marco Antonio
+Odontologia
+Pendiente
+Cancelado
+35

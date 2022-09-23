@@ -1,0 +1,44 @@
+Esteban
+Gonzalez
+17
+1798423434
+12
+9
+2004
+987431278
+Masculino
+Amazonas N40
+ban.gon@hotmail.com
+Fatima
+Reyes
+25
+1783494145
+5
+8
+1996
+946168642
+Femenino
+Solanda EO12
+fati_044@yahoo.com
+Javier
+Torres
+31
+1759486039
+1
+6
+1990
+975267358
+Masculino
+Quitumbe SD47
+i_tow@hotmail.com
+Paola
+Ramirez
+21
+1703683203
+10
+8
+2000
+975846543
+Femenino
+San Juan N85
+pao_19@yahoo.com

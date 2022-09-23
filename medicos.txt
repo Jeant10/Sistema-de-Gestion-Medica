@@ -1,0 +1,60 @@
+Alejandro
+Cabrera
+36
+1795342723
+24
+2
+1985
+914837428
+Masculino
+Cirujia
+Calderon KQ89
+alejo@hotmail.com
+Carolina
+Diaz
+23
+1763493826
+27
+4
+1998
+974632875
+Femenino
+Odontologia
+Iñaquito N17
+carolina.diaz@hotmail.com
+Ivan
+Cevallos
+55
+1784554378
+19
+6
+1966
+985786547
+Masculino
+Medicina General
+Magdalena IO56
+cevallos_ivan@hotmail.com
+Laura
+Lucero
+48
+1795833949
+6
+6
+1973
+984587648
+Femenino
+Oftamologia
+El Inca N24
+laura.lucero@yahoo.com
+Marco
+Antonio
+27
+1768384832
+4
+5
+1994
+988563664
+Masculino
+Odontologia
+Huascar TO12
+marc_antonio@gmail.com
